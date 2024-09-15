@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIkq6M6VmxxRI6mnmmg/XEbAwjAx4x9DrtmH2dBxvtohQ2U/rYWMz4oGk05QMFeFjotzcsl2gqp+aHkHVe4Apw==",
+  "success": true,
+  "projectFilePath": "/home/herr/.codes/src-charp/ex01/ex01.csproj",
+  "expectedPackageFiles": [
+    "/home/herr/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
